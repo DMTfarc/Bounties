@@ -1,0 +1,6 @@
+name: Bounties
+main: cn.hdce.mingtfarc.Sarah.Bounties
+version: 0.411
+commands:
+  bounties:
+depend: [Vault]

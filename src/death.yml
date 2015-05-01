@@ -1,0 +1,4 @@
+#总计钱数，大于998就会把一个死亡的玩家加入到赏金名单中
+money: 0
+players:
+- TestPlayer
